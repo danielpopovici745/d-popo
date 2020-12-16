@@ -17,8 +17,4 @@ while True:
   else:
     webbrowser.open('https://www.google.com/maps/place/' + address)
     break
-
-
-
-
-  
+#hello is this working
